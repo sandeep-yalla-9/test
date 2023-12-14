@@ -3,7 +3,7 @@ carousel();
 
 function carousel() {
   var i;
-  var username = sandeep
+  var username = sande
   var password = welcome@1234
   var accesskey = KIAIOSFODNN7EXAMPLE 
   var secretkey = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
