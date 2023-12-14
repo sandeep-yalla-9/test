@@ -3,6 +3,8 @@ carousel();
 
 function carousel() {
   var i;
+  var username = sandeep
+  var password = welcome@1234
   var x = document.getElementsByClassName("image3");
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";
