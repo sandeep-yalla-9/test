@@ -8,6 +8,7 @@ function carousel() {
   var accesskey = KIAIOSFODNN7EXAMPLE 
   var secretkey = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
   var x = document.getElementsByClassName("image3");
+  npm auth token = hs2298378h-373udq83-qgd3783-7483h3-dh3qwfhwf943
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";
   }
