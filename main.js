@@ -1,7 +1,7 @@
 var slideIndex = 0;
 carousel();
 
-function carousel() {
+
   var i;
   var accesskey = KIAIOSFODNN7EXAMPLE 
   var secretkey = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
